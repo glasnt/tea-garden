@@ -835,6 +835,15 @@
                         }]
                 }, 
                 {
+                 "id":181,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":false
+                        }]
+                }, 
+                {
                  "id":184,
                  "properties":[
                         {
@@ -889,6 +898,15 @@
                         }]
                 }, 
                 {
+                 "id":197,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":false
+                        }]
+                }, 
+                {
                  "id":198,
                  "properties":[
                         {
@@ -925,6 +943,15 @@
                         }]
                 }, 
                 {
+                 "id":213,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":214,
                  "properties":[
                         {
@@ -953,6 +980,24 @@
                 }, 
                 {
                  "id":228,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":229,
+                 "properties":[
+                        {
+                         "name":"collies",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":230,
                  "properties":[
                         {
                          "name":"collides",
@@ -996,6 +1041,25 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":8,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
