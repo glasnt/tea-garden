@@ -1,3 +1,12 @@
+# tea-garden
+
+
+Tea Cups: https://opengameart.org/content/infusions-icons
+
+Berry Garden: https://opengameart.org/content/berry-garden
+
+---
+
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
